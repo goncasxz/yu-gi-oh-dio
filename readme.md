@@ -17,11 +17,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Para rodar o projeto localmente, siga as instruções abaixo:
 
 1. Clone este repositório:
-   
+   ```bash
    git clone https://github.com/goncasxz/yu-gi-oh-dio.git
 
 2. Navegue até a pasta do projeto:
-   
+   ```bash
    cd yu-gi-oh-dio
    
 3. Abra o arquivo index.html no seu navegador
